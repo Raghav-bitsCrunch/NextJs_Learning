@@ -6,3 +6,6 @@ Then
 cd hello-world
 
 To RUN app --> npm run dev
+
+1.commit Routing 
+http://localhost:3000/ -- Try this first
