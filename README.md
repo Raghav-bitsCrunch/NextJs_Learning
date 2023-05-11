@@ -41,3 +41,12 @@ Till infinite
 use useRouter lib to query the productid in URL
 
 http://localhost:3000/products/1
+
+
+if we have requested query then nextjs will id any router file is present or not
+if it is present then it will load that file or if is not present then it will got dynamic routes called productid.js
+
+try this
+http://localhost:3000/product/sweater
+
+http://localhost:3000/product/sweaterss
