@@ -13,3 +13,8 @@ http://localhost:3000/ -- Try this first
 2.commit Routing - Creating two more routes
 http://localhost:3000/about
 http://localhost:3000/profile
+
+3.commit Nested routes 
+http://localhost:3000/blog
+http://localhost:3000/blog/first
+http://localhost:3000/blog/second
